@@ -17,3 +17,7 @@ Este projeto apresenta um aplicativo web desenvolvido com Streamlit para explora
 
 2. Execute o aplicativo:
    streamlit run app.py
+
+
+repositório GitHub - https://github.com/petrushelvoort/project5-streamlit.git
+Link Render - https://project5-streamlit-1.onrender.com
