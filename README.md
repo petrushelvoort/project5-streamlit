@@ -20,4 +20,4 @@ Este projeto apresenta um aplicativo web desenvolvido com Streamlit para explora
 
 
 repositório GitHub - https://github.com/petrushelvoort/project5-streamlit.git
-Link Render - https://project5-streamlit-1.onrender.com
+Link Render - https://project5-streamlit-3.onrender.com
